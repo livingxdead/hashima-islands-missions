@@ -1,0 +1,8600 @@
+{
+    "Triggers": [
+        {
+            "Position": [
+                449.296356,
+                32,
+                4762.561523
+            ],
+            "Orientation": [
+                241.102005,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                482.483215,
+                32,
+                4777.425781
+            ],
+            "Orientation": [
+                249.867996,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                368.570435,
+                32,
+                4689.416992
+            ],
+            "Orientation": [
+                215.061005,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                535.822388,
+                32,
+                4789.578613
+            ],
+            "Orientation": [
+                264.821991,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                433.255951,
+                32,
+                4752.993164
+            ],
+            "Orientation": [
+                237.106003,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                465.731964,
+                32,
+                4770.634277
+            ],
+            "Orientation": [
+                246.130005,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                391.974426,
+                47,
+                4718.853027
+            ],
+            "Orientation": [
+                221.894043,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                34,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                500.066467,
+                32,
+                4782.922363
+            ],
+            "Orientation": [
+                255.154007,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                518.081055,
+                32,
+                4787.043945
+            ],
+            "Orientation": [
+                258.763,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                359.012878,
+                32,
+                4673.967285
+            ],
+            "Orientation": [
+                208.358002,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                350.789948,
+                32,
+                4657.15332
+            ],
+            "Orientation": [
+                203.716995,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                418.249115,
+                32,
+                4742.529785
+            ],
+            "Orientation": [
+                233.108994,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                405.511536,
+                32,
+                4732.232422
+            ],
+            "Orientation": [
+                228.908203,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                379.339996,
+                32,
+                4703.828613
+            ],
+            "Orientation": [
+                218.412994,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                706.568481,
+                32,
+                4737.970215
+            ],
+            "Orientation": [
+                308.394989,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                329.718109,
+                32,
+                4568.447266
+            ],
+            "Orientation": [
+                182.832962,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                339.045105,
+                32,
+                4495.091309
+            ],
+            "Orientation": [
+                164.654999,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                360.256195,
+                32,
+                4445.180176
+            ],
+            "Orientation": [
+                149.959,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                778.96582,
+                32,
+                4634.432129
+            ],
+            "Orientation": [
+                341.397034,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                351.759491,
+                32,
+                4461.383301
+            ],
+            "Orientation": [
+                154.600006,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                783.900818,
+                32,
+                4617.55127
+            ],
+            "Orientation": [
+                345.909027,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                344.601166,
+                32,
+                4478.101563
+            ],
+            "Orientation": [
+                159.112,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                772.358704,
+                32,
+                4651.564941
+            ],
+            "Orientation": [
+                336.627045,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                787.651367,
+                32,
+                4599.446777
+            ],
+            "Orientation": [
+                350.42099,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                626.911133,
+                32,
+                4780.995117
+            ],
+            "Orientation": [
+                287.381989,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                660.962646,
+                32,
+                4767.93457
+            ],
+            "Orientation": [
+                295.890991,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                676.653625,
+                32,
+                4759.275391
+            ],
+            "Orientation": [
+                301.821045,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                691.823486,
+                32,
+                4749.118164
+            ],
+            "Orientation": [
+                305.687988,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                744.421997,
+                32,
+                4698.942871
+            ],
+            "Orientation": [
+                322.834015,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                764.244324,
+                32,
+                4668.096191
+            ],
+            "Orientation": [
+                331.213013,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                337.923492,
+                32,
+                4623.136719
+            ],
+            "Orientation": [
+                195.723999,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                343.637451,
+                32,
+                4639.979492
+            ],
+            "Orientation": [
+                201.654007,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                331.530365,
+                32,
+                4531.84668
+            ],
+            "Orientation": [
+                172.389999,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                334.634094,
+                32,
+                4513.503418
+            ],
+            "Orientation": [
+                168.393997,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                790.679688,
+                32,
+                4562.661621
+            ],
+            "Orientation": [
+                359.960449,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                334.046875,
+                32,
+                4605.437988
+            ],
+            "Orientation": [
+                189.149002,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                609.129211,
+                32,
+                4785.543457
+            ],
+            "Orientation": [
+                281.194,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                732.848083,
+                32,
+                4713.060547
+            ],
+            "Orientation": [
+                318.450989,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                329.772552,
+                32,
+                4550.583008
+            ],
+            "Orientation": [
+                176.772995,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                572.701782,
+                32,
+                4790.259277
+            ],
+            "Orientation": [
+                274.619995,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                720.237549,
+                32,
+                4726.140625
+            ],
+            "Orientation": [
+                313.552002,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                590.812805,
+                32,
+                4788.435547
+            ],
+            "Orientation": [
+                276.682007,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                644.411011,
+                32,
+                4775
+            ],
+            "Orientation": [
+                290.217987,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                554.143799,
+                32,
+                4790.702637
+            ],
+            "Orientation": [
+                268.045013,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                754.856384,
+                32,
+                4683.932617
+            ],
+            "Orientation": [
+                327.473999,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                331.32431,
+                32,
+                4586.77832
+            ],
+            "Orientation": [
+                187.216003,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                628.293457,
+                32,
+                4340.408203
+            ],
+            "Orientation": [
+                72.802002,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                678.754639,
+                32,
+                4363.026367
+            ],
+            "Orientation": [
+                59.007999,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                662.52771,
+                32,
+                4353.974121
+            ],
+            "Orientation": [
+                62.618,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                693.342285,
+                32,
+                4372.606445
+            ],
+            "Orientation": [
+                53.852001,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                369.967682,
+                32,
+                4429.776855
+            ],
+            "Orientation": [
+                145.576004,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                773.801575,
+                32,
+                4473.52002
+            ],
+            "Orientation": [
+                22.653999,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                434.950897,
+                32,
+                4366.571289
+            ],
+            "Orientation": [
+                121.210999,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                573.961365,
+                32,
+                4330.372559
+            ],
+            "Orientation": [
+                86.724998,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                645.797119,
+                32,
+                4346.485352
+            ],
+            "Orientation": [
+                68.934998,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                721.046387,
+                32,
+                4398.390625
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                780.170776,
+                32,
+                4490.671875
+            ],
+            "Orientation": [
+                18.013,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                451.015442,
+                32,
+                4357.512695
+            ],
+            "Orientation": [
+                117.472,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                746.675049,
+                32,
+                4425.931152
+            ],
+            "Orientation": [
+                36.448002,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                784.79657,
+                32,
+                4507.893555
+            ],
+            "Orientation": [
+                12.47,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                707.039795,
+                32,
+                4384.391602
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                592.29425,
+                32,
+                4332.139648
+            ],
+            "Orientation": [
+                82.084,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                519.676636,
+                32,
+                4333.222656
+            ],
+            "Orientation": [
+                100.518997,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                789.952087,
+                32,
+                4580.992188
+            ],
+            "Orientation": [
+                355.320007,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                501.560913,
+                32,
+                4337.352539
+            ],
+            "Orientation": [
+                105.030998,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                393.115387,
+                32,
+                4401.397461
+            ],
+            "Orientation": [
+                135.391998,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                787.996521,
+                32,
+                4525.636719
+            ],
+            "Orientation": [
+                8.087,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                789.997803,
+                32,
+                4543.966797
+            ],
+            "Orientation": [
+                4.09,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                756.829041,
+                32,
+                4440.944336
+            ],
+            "Orientation": [
+                32.194,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                406.141571,
+                32,
+                4388.706543
+            ],
+            "Orientation": [
+                133.328995,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                420.025238,
+                32,
+                4376.83252
+            ],
+            "Orientation": [
+                127.786003,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                537.521912,
+                32,
+                4330.92627
+            ],
+            "Orientation": [
+                94.202003,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                380.900299,
+                32,
+                4415.0625
+            ],
+            "Orientation": [
+                141.192993,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                484.592224,
+                32,
+                4342.709961
+            ],
+            "Orientation": [
+                109.93,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                555.572021,
+                32,
+                4330.067871
+            ],
+            "Orientation": [
+                91.108002,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                467.662689,
+                32,
+                4349.522949
+            ],
+            "Orientation": [
+                113.862999,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                765.814514,
+                32,
+                4456.570313
+            ],
+            "Orientation": [
+                27.811001,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                610.192688,
+                32,
+                4335.476563
+            ],
+            "Orientation": [
+                76.669998,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                734.98999,
+                32,
+                4412.343262
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                423.69696,
+                42,
+                4713.986816
+            ],
+            "Orientation": [
+                227.955109,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                452.608337,
+                42,
+                4735.615234
+            ],
+            "Orientation": [
+                238.441742,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                520.197754,
+                42,
+                4761.633789
+            ],
+            "Orientation": [
+                258.480316,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                484.926849,
+                42,
+                4751.458496
+            ],
+            "Orientation": [
+                249.358276,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                398.513977,
+                42,
+                4687.404297
+            ],
+            "Orientation": [
+                218.833069,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                378.950531,
+                42,
+                4657.428223
+            ],
+            "Orientation": [
+                207.393127,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                592.573547,
+                42,
+                4762.960938
+            ],
+            "Orientation": [
+                278.556305,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                556.059265,
+                42,
+                4765.495117
+            ],
+            "Orientation": [
+                269.266052,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                690.516907,
+                42,
+                4718.445801
+            ],
+            "Orientation": [
+                309.268341,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                660.434082,
+                42,
+                4739.115723
+            ],
+            "Orientation": [
+                299.735107,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                627.479187,
+                42,
+                4754.233887
+            ],
+            "Orientation": [
+                289.491547,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                737.89679,
+                42,
+                4663.931152
+            ],
+            "Orientation": [
+                329.400391,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                716.722595,
+                42,
+                4693.144531
+            ],
+            "Orientation": [
+                318.726868,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                364.900818,
+                42,
+                4623.719238
+            ],
+            "Orientation": [
+                197.934662,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                355.559052,
+                42,
+                4551.975586
+            ],
+            "Orientation": [
+                177.709274,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                357.109833,
+                42,
+                4588.555176
+            ],
+            "Orientation": [
+                187.055542,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                360.132202,
+                42,
+                4515.835938
+            ],
+            "Orientation": [
+                167.802109,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                370.81897,
+                42,
+                4481.012695
+            ],
+            "Orientation": [
+                158.025803,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                387.365356,
+                42,
+                4449.121582
+            ],
+            "Orientation": [
+                147.146622,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                753.303589,
+                42,
+                4631.295898
+            ],
+            "Orientation": [
+                340.01767,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                765.392883,
+                42,
+                4560.236328
+            ],
+            "Orientation": [
+                0.579468,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                762.546387,
+                42,
+                4596.392578
+            ],
+            "Orientation": [
+                350.354645,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                762.079102,
+                42,
+                4523.985352
+            ],
+            "Orientation": [
+                9.851034,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                752.6026,
+                42,
+                4489.182129
+            ],
+            "Orientation": [
+                20.487238,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                736.874207,
+                42,
+                4456.729492
+            ],
+            "Orientation": [
+                31.104712,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                409.67807,
+                42,
+                4420.522461
+            ],
+            "Orientation": [
+                136.940414,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                436.726624,
+                42,
+                4395.999512
+            ],
+            "Orientation": [
+                127.463181,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                467.171234,
+                42,
+                4377.220703
+            ],
+            "Orientation": [
+                115.892395,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                536.596008,
+                42,
+                4356.629395
+            ],
+            "Orientation": [
+                95.928543,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                501.41803,
+                42,
+                4363.755859
+            ],
+            "Orientation": [
+                107.032036,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                674.159485,
+                42,
+                4391.210938
+            ],
+            "Orientation": [
+                54.692326,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                701.724426,
+                42,
+                4414.856934
+            ],
+            "Orientation": [
+                44.953407,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                608.711731,
+                42,
+                4361.179199
+            ],
+            "Orientation": [
+                75.497353,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                573.292419,
+                42,
+                4355.716309
+            ],
+            "Orientation": [
+                86.956017,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                642.995056,
+                42,
+                4373.280273
+            ],
+            "Orientation": [
+                65.534126,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                715.432434,
+                42,
+                4428.829102
+            ],
+            "Orientation": [
+                44.074833,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                84,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                501.490723,
+                51.5,
+                4719.98877
+            ],
+            "Orientation": [
+                250.872101,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                422.347473,
+                51.5,
+                4660.187988
+            ],
+            "Orientation": [
+                216.085083,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                457.798828,
+                51.5,
+                4696.442871
+            ],
+            "Orientation": [
+                232.572021,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                601.739502,
+                51.5,
+                4724.848145
+            ],
+            "Orientation": [
+                284.032959,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                551.455444,
+                51.5,
+                4729.751953
+            ],
+            "Orientation": [
+                267.153442,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                647.57489,
+                51.5,
+                4705.37793
+            ],
+            "Orientation": [
+                302.071381,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                687.476929,
+                51.5,
+                4672.485352
+            ],
+            "Orientation": [
+                316.932007,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                399.552673,
+                51.5,
+                4615.75
+            ],
+            "Orientation": [
+                198.270935,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                390.907074,
+                51.5,
+                4565.882813
+            ],
+            "Orientation": [
+                181.484772,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                396.653442,
+                51.5,
+                4515.03125
+            ],
+            "Orientation": [
+                165.633316,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                416.514832,
+                51.5,
+                4469.501465
+            ],
+            "Orientation": [
+                147.23967,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                714.982056,
+                51.5,
+                4631.32373
+            ],
+            "Orientation": [
+                335.531189,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                728.691223,
+                51.5,
+                4582.948242
+            ],
+            "Orientation": [
+                352.7659,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                681.397095,
+                51.5,
+                4442.625488
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                727.620117,
+                51.5,
+                4532.280273
+            ],
+            "Orientation": [
+                9.458497,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                712.095703,
+                51.5,
+                4484.443848
+            ],
+            "Orientation": [
+                26.693233,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                449.821289,
+                51.5,
+                4431.119141
+            ],
+            "Orientation": [
+                130.808746,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                541.340942,
+                51.5,
+                4391.798828
+            ],
+            "Orientation": [
+                96.470146,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                492.217773,
+                51.5,
+                4404.713867
+            ],
+            "Orientation": [
+                112.938469,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                591.644592,
+                51.5,
+                4393.698242
+            ],
+            "Orientation": [
+                79.272827,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                638.698181,
+                51.5,
+                4410.48291
+            ],
+            "Orientation": [
+                61.477333,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                103,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                560.147949,
+                42,
+                4560.80957
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                280,
+                84,
+                280
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                560.153442,
+                42,
+                4560.783691
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                280,
+                84,
+                280
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                722.907959,
+                36,
+                4394.420898
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                56,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                403.584198,
+                32,
+                4714.342773
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                64,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                385.847443,
+                11,
+                4710.737305
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                22,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                399.912506,
+                11,
+                4724.797363
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                22,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                418.961579,
+                2,
+                4698.377929
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                436.567262,
+                2,
+                4680.771484
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                454.164582,
+                2,
+                4663.191406
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                471.742921,
+                2,
+                4645.624512
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                489.368379,
+                2,
+                4628.007324
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                506.883241,
+                2,
+                4610.502929
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                524.466615,
+                2,
+                4592.908203
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                542.006715,
+                2,
+                4575.365722
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                559.585572,
+                2,
+                4557.768554
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                577.137696,
+                2,
+                4540.20459
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                594.745484,
+                2,
+                4522.589355
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                612.349732,
+                2,
+                4504.984375
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                629.963136,
+                2,
+                4487.350586
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                647.608704,
+                2,
+                4469.716309
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                665.143128,
+                2,
+                4452.195312
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                682.793763,
+                2,
+                4434.557617
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                700.36377,
+                2,
+                4417.000488
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                718.005616,
+                2,
+                4399.368164
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "Position": [
+                735.642213,
+                2,
+                4381.743652
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "Position": [
+                753.291993,
+                2,
+                4364.10791
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                770.812748,
+                2,
+                4346.594237
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                788.492863,
+                2,
+                4328.922851
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                806.013615,
+                2,
+                4311.409179
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                823.671207,
+                2,
+                4293.749023
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                841.191959,
+                2,
+                4276.235351
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                858.845463,
+                2,
+                4258.600585
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                876.366215,
+                2,
+                4241.086913
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                894.039615,
+                2,
+                4223.424804
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                911.560367,
+                2,
+                4205.911132
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                929.181705,
+                2,
+                4188.310058
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                946.702457,
+                2,
+                4170.796386
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                964.363956,
+                2,
+                4153.134765
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                981.884708,
+                2,
+                4135.621093
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                999.531803,
+                2,
+                4117.95703
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1017.052555,
+                2,
+                4100.443359
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1034.697636,
+                2,
+                4082.806884
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1052.218387,
+                2,
+                4065.292724
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1069.818363,
+                2,
+                4047.69873
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1087.339115,
+                2,
+                4030.184569
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1104.994877,
+                2,
+                4012.52246
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1122.515629,
+                2,
+                3995.0083
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1140.1814,
+                2,
+                3977.346191
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1157.702152,
+                2,
+                3959.83203
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1175.351322,
+                2,
+                3942.197265
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1192.872074,
+                2,
+                3924.683105
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1210.526493,
+                2,
+                3907.046142
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1228.047245,
+                2,
+                3889.531982
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1245.713871,
+                2,
+                3871.86914
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1263.234623,
+                2,
+                3854.35498
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1280.874027,
+                2,
+                3836.728759
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1298.394779,
+                2,
+                3819.214599
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1316.060551,
+                2,
+                3801.552245
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1333.581303,
+                2,
+                3784.038085
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1351.241947,
+                2,
+                3766.391845
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1368.762699,
+                2,
+                3748.877685
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1386.345585,
+                2,
+                3731.312499
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1403.866337,
+                2,
+                3713.798339
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1421.538211,
+                2,
+                3696.135253
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1439.058964,
+                2,
+                3678.621093
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1456.708988,
+                2,
+                3660.96997
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1474.22974,
+                2,
+                3643.45581
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1491.829716,
+                2,
+                3625.860107
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1509.350468,
+                2,
+                3608.345946
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1527.031862,
+                2,
+                3590.680419
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1544.552616,
+                2,
+                3573.166259
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1562.164799,
+                2,
+                3555.557616
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1579.685551,
+                2,
+                3538.043456
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1597.306522,
+                2,
+                3520.42578
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1614.827274,
+                2,
+                3502.91162
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1632.478275,
+                2,
+                3485.276855
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1649.999027,
+                2,
+                3467.762694
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1667.659672,
+                2,
+                3450.095458
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1685.180424,
+                2,
+                3432.581298
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1702.848392,
+                2,
+                3414.903319
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1720.369144,
+                2,
+                3397.389159
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1738.032474,
+                2,
+                3379.721435
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1755.553226,
+                2,
+                3362.207275
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1773.1814,
+                2,
+                3344.578368
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1790.702152,
+                2,
+                3327.064208
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1808.355228,
+                2,
+                3309.413329
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1825.87598,
+                2,
+                3291.899169
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1843.506595,
+                2,
+                3274.257567
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1861.027347,
+                2,
+                3256.743407
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1878.60413,
+                2,
+                3239.180175
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1896.124882,
+                2,
+                3221.666015
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1913.760258,
+                2,
+                3204.017089
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1931.28101,
+                2,
+                3186.502929
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1948.940922,
+                2,
+                3168.874511
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1966.461674,
+                2,
+                3151.360351
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1984.079716,
+                2,
+                3133.756347
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2001.600468,
+                2,
+                3116.242187
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2019.264286,
+                2,
+                3098.587401
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2036.785038,
+                2,
+                3081.073241
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2054.427494,
+                2,
+                3063.44287
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2071.948246,
+                2,
+                3045.92871
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2089.493656,
+                2,
+                3028.388427
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2107.014164,
+                2,
+                3010.874267
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2124.654301,
+                2,
+                2993.240234
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "Position": [
+                2142.174808,
+                2,
+                2975.726073
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "Position": [
+                2159.819828,
+                2,
+                2958.083984
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2177.344001,
+                2,
+                2940.57
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2195.001224,
+                2,
+                2922.920409
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2212.521732,
+                2,
+                2905.406249
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2230.17139,
+                2,
+                2887.757323
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2247.691898,
+                2,
+                2870.243163
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2265.305424,
+                2,
+                2852.635741
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2282.825931,
+                2,
+                2835.121581
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2300.410648,
+                2,
+                2817.5437
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2317.931156,
+                2,
+                2800.02954
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2335.518558,
+                2,
+                2782.438964
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2353.039066,
+                2,
+                2764.924804
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2370.670413,
+                2,
+                2747.291992
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2388.190921,
+                2,
+                2729.777831
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2405.835452,
+                2,
+                2712.124999
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2423.355961,
+                2,
+                2694.610839
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2440.96045,
+                2,
+                2677.001221
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2458.480958,
+                2,
+                2659.48706
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2476.134278,
+                2,
+                2641.83789
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2493.574708,
+                2,
+                2624.385498
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2511.22925,
+                2,
+                2606.74829
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2646.694337,
+                4,
+                2470.068115
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 1,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2670.117188,
+                4,
+                2444.039551
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                6,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "Position": [
+                2681.379884,
+                4,
+                2435.373047
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2699.033448,
+                4,
+                2417.711181
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2716.689943,
+                4,
+                2400.058838
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2734.333253,
+                4,
+                2382.420654
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2751.922853,
+                4,
+                2364.815918
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2769.580568,
+                4,
+                2347.166504
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2787.222657,
+                4,
+                2329.514892
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2804.880372,
+                4,
+                2311.865478
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2822.489259,
+                4,
+                2294.270508
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2840.146974,
+                4,
+                2276.621094
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2857.759767,
+                4,
+                2259.000732
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2875.417482,
+                4,
+                2241.351318
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2893.027833,
+                4,
+                2223.747558
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2910.685548,
+                4,
+                2206.098144
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2928.262941,
+                4,
+                2188.523193
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2945.920655,
+                4,
+                2170.873779
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2963.552491,
+                4,
+                2153.246338
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2981.210206,
+                4,
+                2135.596924
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2998.816652,
+                4,
+                2117.999023
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3016.474366,
+                4,
+                2100.349609
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3034.135743,
+                4,
+                2082.701416
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3051.793458,
+                4,
+                2065.052002
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3069.385987,
+                4,
+                2047.453979
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3087.043701,
+                4,
+                2029.80481
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3104.644287,
+                4,
+                2012.196533
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3122.302002,
+                4,
+                1994.547363
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3139.859619,
+                4,
+                1976.987427
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3157.532227,
+                4,
+                1959.332764
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3175.157715,
+                4,
+                1941.702393
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3192.830323,
+                4,
+                1924.047729
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3210.460694,
+                4,
+                1906.425781
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3228.118409,
+                4,
+                1888.776611
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3245.696046,
+                4,
+                1871.197021
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3263.353761,
+                4,
+                1853.547851
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3280.923829,
+                4,
+                1835.92102
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3298.613282,
+                4,
+                1818.289428
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3316.256837,
+                4,
+                1800.661255
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3333.914552,
+                4,
+                1783.012085
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3351.565431,
+                4,
+                1765.373291
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3369.223146,
+                4,
+                1747.724121
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3386.808351,
+                4,
+                1730.130859
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3404.466065,
+                4,
+                1712.481689
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3422.108155,
+                4,
+                1694.851196
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3439.76587,
+                4,
+                1677.202026
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3457.350099,
+                4,
+                1659.621338
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3475.007814,
+                4,
+                1641.972168
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3492.600587,
+                4,
+                1624.391601
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3510.258302,
+                4,
+                1606.742431
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3527.871095,
+                4,
+                1589.13855
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3545.52881,
+                4,
+                1571.48938
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3563.148439,
+                4,
+                1553.877807
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3580.806153,
+                4,
+                1536.228637
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3598.395021,
+                4,
+                1518.638916
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3616.052736,
+                4,
+                1500.989746
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3633.619141,
+                4,
+                1483.427612
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3651.276857,
+                4,
+                1465.778442
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3668.905763,
+                4,
+                1448.155151
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3686.563478,
+                4,
+                1430.505981
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3704.201905,
+                4,
+                1412.876098
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3721.85962,
+                4,
+                1395.226928
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3739.476075,
+                4,
+                1377.610473
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3757.13379,
+                4,
+                1359.961303
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3774.76587,
+                4,
+                1342.33081
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3792.423584,
+                4,
+                1324.681641
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3810.014405,
+                4,
+                1307.097534
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3827.67212,
+                4,
+                1289.448364
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3845.310792,
+                4,
+                1271.81726
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3862.968507,
+                4,
+                1254.168091
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3880.54712,
+                4,
+                1236.584961
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3898.204835,
+                4,
+                1218.935791
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3915.854737,
+                4,
+                1201.294067
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3933.512452,
+                4,
+                1183.644897
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3951.160646,
+                4,
+                1165.995117
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3968.818361,
+                4,
+                1148.345947
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3986.474855,
+                4,
+                1130.701172
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4004.132569,
+                4,
+                1113.052002
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4021.76172,
+                4,
+                1095.420044
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4039.843751,
+                4,
+                1077.312988
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4056.948976,
+                4,
+                1060.221924
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4074.033203,
+                4,
+                1043.163696
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4091.21045,
+                4,
+                1025.979736
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4108.373048,
+                4,
+                1008.863342
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                25.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4107.151367,
+                4,
+                1011.772949
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                6,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                975,
+                32.75,
+                1785
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                200,
+                65.5,
+                107
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "Position": [
+                975,
+                50,
+                1725
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                200,
+                30,
+                15
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1035,
+                40,
+                1725
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                54,
+                30,
+                54
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        },
+        {
+            "Position": [
+                1329.431763,
+                2,
+                3804.952637
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1332.94397,
+                2,
+                3808.462646
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1346.035278,
+                2,
+                3804.912598
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1351.447876,
+                2,
+                3799.4729
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1358.441528,
+                2,
+                3792.482666
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1365.497925,
+                2,
+                3785.425781
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1372.462769,
+                2,
+                3778.45752
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1379.430664,
+                2,
+                3771.488525
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1386.414673,
+                2,
+                3764.509521
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1393.435547,
+                2,
+                3757.487549
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1400.410278,
+                2,
+                3750.503662
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1407.403198,
+                2,
+                3743.509277
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1410.917725,
+                2,
+                3739.990234
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1407.459106,
+                2,
+                3726.97876
+            ],
+            "Orientation": [
+                225,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2027.223511,
+                2,
+                3116.02124
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                21.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2036.879761,
+                2,
+                3106.35791
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                21.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1763.08606,
+                2,
+                3379.151123
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                21.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1772.728394,
+                2,
+                3369.505859
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                21.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                827.806946,
+                2,
+                4369.302734
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                21.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                811.489563,
+                2,
+                4385.640137
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                21.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                798.439697,
+                2,
+                4374.680664
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                22.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                814.530579,
+                2,
+                4358.597168
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                22.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                830.634094,
+                2,
+                4342.494141
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                22.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                843.9245,
+                2,
+                4353.213867
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                21.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                846.733093,
+                2,
+                4326.390625
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                22.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                860.008179,
+                2,
+                4337.092773
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                21.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                862.805664,
+                2,
+                4310.321289
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                22.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                875.586548,
+                2,
+                4297.385742
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                881.02063,
+                2,
+                4292.022949
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                890.555786,
+                2,
+                4292.008301
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                903.545898,
+                2,
+                4288.553223
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                907.017944,
+                2,
+                4285.088379
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                904.501404,
+                2,
+                4268.33252
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                895.57782,
+                2,
+                4259.414551
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                887.571716,
+                2,
+                4251.35498
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                15,
+                6,
+                15
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                911.904053,
+                2,
+                4270.696289
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                924.967896,
+                2,
+                4267.181152
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                928.45636,
+                2,
+                4263.692383
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                924.915466,
+                2,
+                4250.597656
+            ],
+            "Orientation": [
+                225,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                917.864929,
+                2,
+                4243.544922
+            ],
+            "Orientation": [
+                225,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                914.341431,
+                2,
+                4240.035645
+            ],
+            "Orientation": [
+                225,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                917.84259,
+                2,
+                4226.993652
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                924.905579,
+                2,
+                4219.92627
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                931.955322,
+                2,
+                4212.878418
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                939.01947,
+                2,
+                4205.811035
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                946.073486,
+                2,
+                4198.750977
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                959.12207,
+                2,
+                4195.220703
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                949.586487,
+                2,
+                4195.231934
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                972.191345,
+                2,
+                4191.708496
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                979.252075,
+                2,
+                4184.640625
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                986.297607,
+                2,
+                4177.589844
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                993.32782,
+                2,
+                4170.550781
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1000.387817,
+                2,
+                4163.492676
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1007.455078,
+                2,
+                4156.423828
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1014.504578,
+                2,
+                4149.373047
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1023.415955,
+                2,
+                4140.467285
+            ],
+            "Orientation": [
+                225,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1036.168945,
+                2,
+                4127.556152
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                22.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1052.276733,
+                2,
+                4111.444336
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                22.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1068.378784,
+                2,
+                4095.34668
+            ],
+            "Orientation": [
+                315,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                22.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1078.936768,
+                2,
+                4082.080566
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                22.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1066.725098,
+                2,
+                4070.059082
+            ],
+            "Orientation": [
+                135,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                13.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3605.3,
+                8,
+                3765
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                230,
+                16,
+                90
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3700,
+                10,
+                3785
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                10,
+                25,
+                10
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3275,
+                35,
+                4030
+            ],
+            "Orientation": [
+                348,
+                0,
+                0
+            ],
+            "Size": [
+                47.5,
+                70,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3330,
+                10,
+                3967.5
+            ],
+            "Orientation": [
+                348,
+                0,
+                0
+            ],
+            "Size": [
+                40.5,
+                20,
+                200
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3495,
+                35,
+                3995.5
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                57.5,
+                15,
+                25
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3495,
+                45,
+                3995.5
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                50,
+                15,
+                25
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3505,
+                55,
+                3990.5
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                15,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3506,
+                30,
+                4007
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                6.5,
+                60,
+                10
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3506,
+                30,
+                3981.5
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                6.5,
+                60,
+                10
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3870,
+                9,
+                2329
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                110,
+                18,
+                37.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3814,
+                9,
+                2327
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                18,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3928,
+                9,
+                2330.5
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                18,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3817,
+                9,
+                2342
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                38,
+                18,
+                30
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3924,
+                9,
+                2316
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                38,
+                18,
+                30
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3870,
+                25,
+                2329
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                105,
+                15,
+                30
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3818,
+                25,
+                2328
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                15,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3922,
+                25,
+                2330.5
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                15,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3818,
+                25,
+                2340
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                28,
+                15,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                3922.5,
+                25,
+                2315
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                28,
+                15,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4153.734,
+                13.65,
+                790.357
+            ],
+            "Orientation": [
+                40,
+                0,
+                0
+            ],
+            "Size": [
+                55,
+                27.3,
+                130
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4179.760742,
+                34.5,
+                833.497437
+            ],
+            "Orientation": [
+                30,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                16,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4159.158691,
+                34.5,
+                801.668335
+            ],
+            "Orientation": [
+                40,
+                0,
+                0
+            ],
+            "Size": [
+                60,
+                16,
+                60
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4113.286621,
+                34.5,
+                730.900269
+            ],
+            "Orientation": [
+                40,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                16,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4101.443848,
+                34.5,
+                727.700623
+            ],
+            "Orientation": [
+                20,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                16,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4102.52832,
+                34.5,
+                702.461243
+            ],
+            "Orientation": [
+                40,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                16,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4108.209473,
+                34.5,
+                746.292419
+            ],
+            "Orientation": [
+                20,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                16,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4094.794189,
+                34.5,
+                709.357727
+            ],
+            "Orientation": [
+                20,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                16,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4107.344727,
+                34.5,
+                743.900818
+            ],
+            "Orientation": [
+                20,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                16,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4088.024414,
+                34.5,
+                690.789978
+            ],
+            "Orientation": [
+                20,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                16,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4081.315674,
+                34.5,
+                672.380676
+            ],
+            "Orientation": [
+                20,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                16,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4089.881348,
+                34.5,
+                687.379028
+            ],
+            "Orientation": [
+                40,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                16,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                4141.167969,
+                27.5,
+                765.006287
+            ],
+            "Orientation": [
+                40,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                16,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1831.826504,
+                30,
+                2378.98901
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                26,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1830.172241,
+                30,
+                2394.962891
+            ],
+            "Orientation": [
+                40,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                26,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1852.681885,
+                30,
+                2388.49585
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                26,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1892.340942,
+                30,
+                2388.521973
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                26,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1931.505615,
+                30,
+                2388.535889
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                26,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1997.658325,
+                27,
+                2389.078125
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                20,
+                19.5,
+                20
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                1970.324341,
+                27,
+                2388.563477
+            ],
+            "Orientation": [
+                0,
+                0,
+                0
+            ],
+            "Size": [
+                40,
+                19.5,
+                40
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2122.629395,
+                2,
+                3019.723633
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                13.5,
+                6,
+                21.5
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": []
+        },
+        {
+            "Position": [
+                2109.309326,
+                2,
+                3022.234863
+            ],
+            "Orientation": [
+                45,
+                0,
+                0
+            ],
+            "Size": [
+                4.6,
+                6,
+                4.6
+            ],
+            "EyeAccommodation": 0,
+            "Breadcrumbs": [],
+            "InterpolationSpeed": 1
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<economycore>
+    <classes>
+        <rootclass name="DefaultWeapon" />
+        <rootclass name="DefaultMagazine" />
+        <rootclass name="HouseNoDestruct" reportMemoryLOD="no" />
+        <rootclass name="Inventory_Base" />
+        <rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" />
+        <rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" />
+    </classes>
+    <defaults>
+        <default name="dyn_radius" value="30" />
+        <default name="dyn_smin" value="0" />
+        <default name="dyn_smax" value="0" />
+        <default name="dyn_dmin" value="1" />
+        <default name="dyn_dmax" value="5" />
+        <default name="log_ce_loop" value="false" />
+        <default name="log_ce_dynamicevent" value="false" />
+        <default name="log_ce_vehicle" value="false" />
+        <default name="log_ce_lootspawn" value="false" />
+        <default name="log_ce_lootcleanup" value="false" />
+        <default name="log_ce_lootrespawn" value="false" />
+        <default name="log_ce_statistics" value="false" />
+        <default name="log_ce_zombie" value="false" />
+        <default name="log_storageinfo" value="false" />
+        <default name="log_hivewarning" value="false" />
+        <default name="log_missionfilewarning" value="false" />
+        <default name="save_events_startup" value="true" />
+        <default name="save_types_startup" value="true" />
+    </defaults>
+
+    <ce folder="ccs_ce">
+    <!--
+        ╔═════════════╗
+        ║ CCS - Types ║
+        ╚═════════════╝
+    -->
+        <file name="ccs_types_ammo.xml" type="types" />
+        <file name="ccs_types_bag.xml" type="types" />
+        <file name="ccs_types_beer.xml" type="types" />
+        <file name="ccs_types_can.xml" type="types" />
+        <file name="ccs_types_candy.xml" type="types" />
+        <file name="ccs_types_clothing.xml" type="types" />
+        <file name="ccs_types_collectable.xml" type="types" />
+        <file name="ccs_types_drink.xml" type="types" />
+        <file name="ccs_types_event.xml" type="types" />
+        <file name="ccs_types_jar.xml" type="types" />
+        <file name="ccs_types_medical.xml" type="types" />
+        <file name="ccs_types_snack.xml" type="types" />
+        <file name="ccs_types_tool.xml" type="types" />
+        <file name="ccs_types_weapon.xml" type="types" />
+        <file name="ccs_types_zombie.xml" type="types" />
+    <!--
+        ╔══════════════════════╗
+        ║ CCS - SpawnableTypes ║
+        ╚══════════════════════╝
+    -->
+        <file name="ccs_spawnabletypes_ammo.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_bag.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_clothing.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_medical.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_tool.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_weapon.xml" type="spawnabletypes" />
+        <file name="ccs_spawnabletypes_zombie.xml" type="spawnabletypes" />
+    </ce>
+</economycore>
