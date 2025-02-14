@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
 <!--
-    ╔══════════════════════════════════════════════════════════════╗
-    ║ INDEX ██████████████████████████████████████████████████████ ║
-    ╠═══════════════════════════╦══════════════════════════════════╣
-    ║ DZ - Types - Animal       ║ dz_ce/dz_types_animal.xml        ║
-    ║ DZ - Types - Bag          ║ dz_ce/dz_types_bag.xml           ║
-    ║ DZ - Types - Clothing     ║ dz_ce/dz_types_clothing.xml      ║
-    ║ DZ - Types - Event        ║ dz_ce/dz_types_event.xml         ║
-    ║ DZ - Types - Food         ║ dz_ce/dz_types_food.xml          ║
-    ║ DZ - Types - Medical      ║ dz_ce/dz_types_medical.xml       ║
-    ║ DZ - Types - Tool         ║ dz_ce/dz_types_tool.xml          ║
-    ║ DZ - Types - Weapon       ║ dz_ce/dz_types_weapon.xml        ║
-    ╚═══════════════════════════╩══════════════════════════════════╝
--->
-
-<!--
     ╔═════════════════════╗
     ║ DZ - Types - Animal ║
     ╚═════════════════════╝
@@ -12276,7 +12261,7 @@
         <min>1</min>
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
-        <cost>1000</cost>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
         <usage name="Military" />
@@ -12618,8 +12603,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
         <category name="weapons" />
-        <usage name="Military" />
         <tag name="shelves" />
+        <usage name="Military" />
         <value name="Tier3" />
         <value name="Tier4" />
     </type>

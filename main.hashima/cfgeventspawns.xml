@@ -7,7 +7,7 @@
     <event name="AnimalPig" /> -->
     <event name="AnimalRoeDeer" />
     <event name="AnimalWildBoar" />
-    <event name="AnimalWolf" />
+    <!-- <event name="AnimalWolf" /> -->
 
     <event name="InfectedArmy" />
     <event name="InfectedArmyHeavy" />

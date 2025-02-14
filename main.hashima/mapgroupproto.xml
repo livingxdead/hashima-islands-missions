@@ -105,8 +105,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <tag name="floor" />
-            <tag name="ground" />
             <point pos="1.634004 0.726837 -1.395605" range="0.478125" height="1.195313" />
             <point pos="2.656149 0.726837 1.497666" range="0.545898" height="1.364746" />
             <point pos="2.609288 0.726837 -0.564496" range="0.593140" height="1.482849" />
@@ -13643,8 +13641,6 @@
             <category name="clothes" />
             <category name="tools" />
             <category name="weapons" />
-            <tag name="floor" />
-            <tag name="ground" />
             <point pos="-1.918331 0.697205 -2.537552" range="0.306250" height="0.765625" />
             <point pos="-0.465044 0.822632 -2.618594" range="0.354797" height="0.886963" />
             <point pos="-1.150324 0.958496 -5.424282" range="0.237500" height="0.593750" />
@@ -13660,8 +13656,6 @@
         <container name="lootfloor" lootmax="10">
             <category name="containers" />
             <category name="clothes" />
-            <tag name="floor" />
-            <tag name="ground" />
             <point pos="-2.110840 0.993164 -7.196350" range="0.443750" height="1.109375" flags="16" />
             <point pos="7.518188 0.995667 4.411987" range="0.168750" height="0.421875" flags="16" />
             <point pos="-2.082764 0.615784 -3.522766" range="0.168750" height="0.369995" flags="16" />
@@ -13691,8 +13685,6 @@
             <category name="containers" />
             <category name="clothes" />
             <category name="weapons" />
-            <tag name="floor" />
-            <tag name="ground" />
             <point pos="7.600342 1.292908 -8.476135" range="0.438509" height="1.109375" flags="16" />
             <point pos="6.649901 1.291748 -8.502075" range="0.353868" height="1.109375" flags="16" />
             <point pos="6.728759 0.501953 -8.580812" range="0.443750" height="0.532410" flags="16" />
@@ -13845,8 +13837,6 @@
         <container name="lootfloor" lootmax="10">
             <category name="containers" />
             <category name="clothes" />
-            <tag name="floor" />
-            <tag name="ground" />
             <point pos="-3.064941 0.479675 -3.885498" range="0.203125" height="0.507813" />
             <point pos="-0.017579 1.215576 -5.425171" range="0.203125" height="0.507813" />
             <point pos="-0.890016 0.410583 3.420654" range="0.237500" height="0.593750" />
@@ -13892,6 +13882,7 @@
         <container name="lootfloor" lootmax="10">
             <category name="tools" />
             <category name="clothes" />
+            <category name="weapons" />
             <point pos="9.824950 0.859985 -3.071290" range="0.100000" height="0.250000" />
             <point pos="9.788695 0.859985 -2.134279" range="0.134375" height="0.264999" />
             <point pos="9.776732 0.479980 -1.469240" range="0.134375" height="0.264999" />
@@ -14086,8 +14077,6 @@
         <container name="lootfloor" lootmax="10">
             <category name="tools" />
             <category name="containers" />
-            <tag name="floor" />
-            <tag name="ground" />
             <point pos="-5.518433 0.880005 -4.856628" range="0.271875" height="0.679688" />
             <point pos="-1.832886 0.927704 0.083557" range="0.382684" height="1.023438" />
             <point pos="-1.829590 0.927704 -1.278686" range="0.409375" height="1.023438" />

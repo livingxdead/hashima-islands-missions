@@ -134,7 +134,7 @@
             <child lootmax="0" lootmin="0" max="6" min="3" type="Animal_SusScrofa" />
         </children>
     </event>
-    <event name="AnimalWolf">
+    <!-- <event name="AnimalWolf">
         <nominal>1</nominal>
         <min>1</min>
         <max>2</max>
@@ -151,7 +151,7 @@
             <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_CanisLupus_Grey" />
             <child lootmax="0" lootmin="0" max="1" min="1" type="Animal_CanisLupus_White" />
         </children>
-    </event>
+    </event> -->
 
 
     <!--
