@@ -286,7 +286,7 @@ class CustomMission : MissionServer
 
     override PlayerBase OnClientNewEvent(PlayerIdentity identity, vector pos, ParamsReadContext ctx)
     {
-        static const ref array<vector> SPAWN_POSITIONS =
+        ref array<vector> SPAWN_POSITIONS =
         {
             "621.717 5.05475 952.71",
             "522.687 4.28336 990.848",
@@ -310,7 +310,7 @@ class CustomMission : MissionServer
             "938.199 7.98381 2545.52",
             "1007.02 58.0468 2469.19"
         };
-    
+
         string characterType;
         vector pos1 = SPAWN_POSITIONS.GetRandomElement();
 
